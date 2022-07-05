@@ -9,6 +9,9 @@ h2{
 .color{
     color: gold;
 }
+.clr{
+    color: red;
+}
 p{
     font-weight: 700;
     font-size: larger;
@@ -41,7 +44,6 @@ p{
     font-size: 20px;
     font-weight: 700;
 }
-
 .hadith{
     display: flex;padding-top: 7%;
     background-position: right;
@@ -55,3 +57,28 @@ p{
     padding-right: 60px;
     padding-left: 30px;
 }
+
+.new-one{
+    padding-top: 90px;
+    padding-bottom: 10%;
+    display: flex;
+    width: 90%;
+    padding-left: 5%;
+    background-image: url(./exp-bg.png);
+    background-repeat: no-repeat;
+}
+.box{
+    box-shadow: 10px 10px 40px gray; 
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    border-radius: 20px;
+    width: 40%;
+    border-left: 15px solid rgb(236, 179, 74);
+}
+footer{
+    text-align: center;
+}
+
+    
+    
