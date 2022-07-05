@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+    font: 700;
+}
+.color{
+    color: gold;
+}
+p{
+    font-weight: 700;
+    font-size: larger;
+    font-family: 'Poppins', sans-serif;
+}
+.flex{
+    display: flex;
+}
