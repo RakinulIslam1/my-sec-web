@@ -3,6 +3,9 @@ h1{
     font-weight: 700;
     font-size: 30px;
 }
+h2{
+    font-family: 'Poppins', sans-serif;
+}
 .color{
     color: gold;
 }
@@ -37,5 +40,18 @@ p{
     color: whitesmoke;
     font-size: 20px;
     font-weight: 700;
+}
 
+.hadith{
+    display: flex;padding-top: 7%;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-image:url(./dream-bg.png)
+}
+.small{
+    width: 100%;
+}
+.pdng{
+    padding-right: 60px;
+    padding-left: 30px;
 }
